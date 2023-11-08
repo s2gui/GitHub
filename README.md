@@ -10,5 +10,5 @@ Ricardo
 
 ###### Conhecimentos:
 
-[Comandos Git]https://github.com/s2gui/uc10_domentacao/blob/main/ComandosGit.md
-[py.md]
+[Comandos Git](ComandosGit.md)
+[py.md](py.md)
