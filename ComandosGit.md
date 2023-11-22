@@ -77,7 +77,7 @@ Pode ser usado para criar uma ramificação.
 git checkout "nomedasuabranch"
 ```
 
-# Referencias:
+# Referencias
 [README](README.md)
 
 [py.md](py.md)
