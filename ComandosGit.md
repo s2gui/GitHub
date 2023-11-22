@@ -1,42 +1,42 @@
 # Comandos do Git
 
-### Limpar a tela
+## Limpar a tela
 cls
 
-### Listar configurações globais do Git
+## Listar configurações globais do Git
 git config --list
 
-### Configurar nome de usuário global do Git
+## Configurar nome de usuário global do Git
 git config --global user.name "seunome"
 
-### Configurar email global do Git
+## Configurar email global do Git
 git config --global user.email "seu@gmail.com"
 
-### Verificar o status do repositório Git
+## Verificar o status do repositório Git
 git status
 
-### Realizar o primeiro commit
+## Realizar o primeiro commit
 git commit -m "Primeiro commit: Adicionado"
 
-### Criar a branch 'main' no repositório remoto
+## Criar a branch 'main' no repositório remoto
 git push -u origin main
 
-### Iniciar um novo repositório Git
+## Iniciar um novo repositório Git
 git init
 
-### Mudar a branch local de 'master' para 'main'
+## Mudar a branch local de 'master' para 'main'
 git branch -M main
 
-### Adicionar todos os arquivos ao índice
+## Adicionar todos os arquivos ao índice
 git add .
 
-### Adicionar o repositório remoto como 'origin' com o seu link do Git
+## Adicionar o repositório remoto como 'origin' com o seu link do Git
 git remote add origin "link do seu git"
 
-### Fazer push para a branch 'main' no repositório remoto
+## Fazer push para a branch 'main' no repositório remoto
 git push -u origin main
 
-### Para adicionar um novo arquivo ou pasta dentro do VS Code
+## Para adicionar um novo arquivo ou pasta dentro do VS Code
 git pull
 
 # Para entrar na sua branch
