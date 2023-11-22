@@ -7,21 +7,27 @@ cls
 
 ## Listar configurações globais
 Vai listar todas as configurações que o Git que conseguir encontrar naquele momento.
+
 git config --list
 
 ## Configurar nome de usuário global
 definir valores de configuração para o Git em nível global ou local.
+
 git config --global user.name "seunome"
 
 ## Configurar email de usuário global
-define valores de configuração para o Git em nível global ou local.
+Define valores de configuração para o Git em nível global ou local.
+
 git config --global user.email "seu@gmail.com"
 
 ## Verificar o status do repositório
-exibe as condições do diretório de trabalho e da área de staging
+Exibe as condições do diretório de trabalho e da área de staging
+
 git status
 
 ## Realizar o primeiro commit
+Leva as mudanças de um ambiente local para o repositório no git, permitindo ainda a inserção de uma mensagem descritiva.
+
 git commit -m "Primeiro commit: Adicionado"
 
 ## Criar a branch 'main' no repositório remoto
