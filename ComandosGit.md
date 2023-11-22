@@ -1,18 +1,23 @@
 # Comandos do Git
 
 ## Limpar a tela
+Ele vai apagar todas as mensagens.
 cls
 
-## Listar configurações globais do Git
+## Listar configurações globais
+Vai listar todas as configurações que o Git que conseguir encontrar naquele momento.
 git config --list
 
-## Configurar nome de usuário global do Git
+## Configurar nome de usuário global
+definir valores de configuração para o Git em nível global ou local.
 git config --global user.name "seunome"
 
-## Configurar email global do Git
+## Configurar email de usuário global
+define valores de configuração para o Git em nível global ou local.
 git config --global user.email "seu@gmail.com"
 
-## Verificar o status do repositório Git
+## Verificar o status do repositório
+exibe as condições do diretório de trabalho e da área de staging
 git status
 
 ## Realizar o primeiro commit
@@ -36,7 +41,8 @@ git remote add origin "link do seu git"
 ## Fazer push para a branch 'main' no repositório remoto
 git push -u origin main
 
-## Para adicionar um novo arquivo ou pasta dentro do VS Code
+## Add arquivo dentro do VS
+Para adicionar um novo arquivo ou pasta dentro do VS Code
 git pull
 
 # Para entrar na sua branch
