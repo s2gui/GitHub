@@ -1,12 +1,12 @@
 # Comandos do Git
 
-## Limpar a tela
+### Limpar a tela
 cls
 
 ### Listar configurações globais do Git
 git config --list
 
-###### Configurar nome de usuário global do Git
+### Configurar nome de usuário global do Git
 git config --global user.name "seunome"
 
 ### Configurar email global do Git
