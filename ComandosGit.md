@@ -6,11 +6,11 @@ cls
 ### Listar configurações globais do Git
 git config --list
 
-#### Configurar nome de usuário global do Git
-git config --global user.name "Toomy_Jado"
+# Configurar nome de usuário global do Git
+git config --global user.name "seunome"
 
-##### Configurar email global do Git
-git config --global user.email "guimc0507@gmail.com"
+ Configurar email global do Git
+git config --global user.email "seu@gmail.com"
 
 ###### Verificar o status do repositório Git
 git status
