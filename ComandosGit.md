@@ -2,6 +2,7 @@
 
 ## Limpar a tela
 Ele vai apagar todas as mensagens.
+
 cls
 
 ## Listar configurações globais
