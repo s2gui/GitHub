@@ -25,7 +25,7 @@ git config --global user.email "seu@gmail.com"
 ```
 
 ### Verificar o status do repositório
-Exibe as condições do diretório de trabalho e da área de staging
+Exibe as condições do diretório de trabalho e da área de staging.
 ```
 git status
 ```
