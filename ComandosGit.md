@@ -3,7 +3,9 @@
 ## Limpar a tela
 Ele vai apagar todas as mensagens.
 
-```cls```
+```
+cls
+```
 
 ## Listar configurações globais
 Vai listar todas as configurações que o Git que conseguir encontrar naquele momento.
