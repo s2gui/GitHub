@@ -1,24 +1,24 @@
 # Comandos do Git
 
-## Limpar a tela
+### Limpar a tela
 Ele vai apagar todas as mensagens.
 ```
 cls
 ```
 
-## Listar configurações globais
+### Listar configurações globais
 Vai listar todas as configurações que o Git que conseguir encontrar naquele momento.
 ```
 git config --list
 ```
 
-## Configurar nome de usuário global
+### Configurar nome de usuário global
 definir valores de configuração para o Git em nível global ou local.
 ```
 git config --global user.name "seunome"
 ```
 
-## Configurar email de usuário global
+### Configurar email de usuário global
 Define valores de configuração para o Git em nível global ou local.
 ```
 git config --global user.email "seu@gmail.com"
