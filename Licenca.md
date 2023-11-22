@@ -7,7 +7,9 @@ Mas são só alterados se os
 
 ### Tipos de licença
 licença open source
+
 Licença Copyleft
+
 Licença Permissiva
 
 ### Porque utilizar
