@@ -32,7 +32,7 @@ df.to_excel('nota_aluno.xlsx', index=False)
 ```
 
 `Como ira ficar:`
-![Excel]
+![Excel](Excel.png)
 
 
 
