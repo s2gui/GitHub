@@ -63,7 +63,7 @@ git add .
 ### Adicionar o repositório remoto como 'origin' com o seu link do Git
 Permite criar conexões com outros repositórios.
 ```
-git remote add origin "link do seu git"
+git remote add origin "linkdoseugit"
 ```
 
 ### Add arquivo dentro do VS
@@ -74,7 +74,7 @@ git pull
 ### Para entrar na sua branch
 Pode ser usado para criar uma ramificação.
 ```
-git checkout branch/nome da sua branch
+git checkout "nomedasuabranch"
 ```
 
 # Referencias:
