@@ -1,6 +1,14 @@
 # Py
 # Codigo
-`Panda é uma inteligencia artificial que fornece ferramentas para manipular e analise de dados`
+`pandas é uma inteligencia artificial que fornece ferramentas para manipular e analise de dados`
+
+```
+import pandas as pd
+```
+
+`base_notas.xlsx é o nome do seu excel`
+
+`pd`
 
 ```
 import pandas as pd
