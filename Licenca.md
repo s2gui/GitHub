@@ -10,7 +10,7 @@ Licença Copyleft
 
 Licença Permissiva
 
-### Porque utilizar
+### Importancia
 ### licença open source
 A licença open source do projeto, serve para o uso daquele software, funcionando como um acordo legal entre quem cria o projeto inicial e quem o usa.
 
@@ -19,4 +19,12 @@ Permite o uso e distribuição, mas com certas condições, o usuario pode usar 
 
 ### Licença Permissiva
 Licença permissiva da muita flexibilidade no uso e distribuição do projeto, por causa que elas têm poucas restrições de uso e distribuição, com essa licença, os usuarios são livres para usar seu software como quiserem.
+
+### Comparação
+### licença open source
+
+### Licença Copyleft
+
+### Licença Permissiva
+Todos os usuarios são livres pra modificar seu codigo, 
 
