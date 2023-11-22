@@ -6,7 +6,7 @@ Panda é uma inteligencia artificial que fornece ferramentas para manipular e an
 import pandas as pd
 ```
 
-base_notas.xlsx é o nome do seu excel, e df é o DataFrame do Pandas, é uma maneira de representar e trabalhar com dados tabulares.
+base_notas.xlsx é o nome do seu excel e o nota_aluno.xlsx também, e df é o DataFrame do Pandas, é uma maneira de representar e trabalhar com dados tabulares.
 
 ```
 df = pd.read_excel("base_notas.xlsx")
