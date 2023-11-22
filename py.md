@@ -18,7 +18,7 @@ df = pd.read_excel("base_notas.xlsx")
 df.to_excel('nota_aluno.xlsx', index=False)
 ```
 
-`Codigo:`
+### Codigo
 
 ```
 import pandas as pd
@@ -31,7 +31,7 @@ df.to_excel('nota_aluno.xlsx', index=False)
 
 ```
 
-Como ira ficar
+### Como ira ficar
 ![Excel](Excel.png)
 
 
