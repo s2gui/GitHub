@@ -1,12 +1,12 @@
 # Py
 # Codigo
-`pandas é uma inteligencia artificial que fornece ferramentas para manipular e analise de dados e pd é é uma biblioteca que fornece ferramentas para análise e manipulação de dados.`
+`Panda é uma inteligencia artificial que fornece ferramentas para manipular e analisar dados, e pd é uma biblioteca que fornece ferramentas para análise e manipulação de dados.`
 
 ```
 import pandas as pd
 ```
 
-`base_notas.xlsx é o nome do seu excel e df é o DataFrame do Pandas, é uma maneira de representar e trabalhar com dados tabulares `
+`base_notas.xlsx é o nome do seu excel, e df é o DataFrame do Pandas, é uma maneira de representar e trabalhar com dados tabulares `
 
 ```
 df = pd.read_excel("base_notas.xlsx")
