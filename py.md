@@ -1,5 +1,5 @@
 # Py
-### Codigo
+### Detalhes do Codigo
 `Panda é uma inteligencia artificial que fornece ferramentas para manipular e analisar dados, e pd é uma biblioteca que fornece ferramentas para análise e manipulação de dados.`
 
 ```
@@ -32,7 +32,9 @@ df.to_excel('nota_aluno.xlsx', index=False)
 ```
 
 ### Como ira ficar
-![Excel](Excel.png)
+![Excel](nota_aluno.png)
+Mas antes de ficar assim vai ter que criar um excel primeiro pra adicionar os componentes, ele adicionara a Media sozinho
+![Excel(base_notas.png)
 
 
 
