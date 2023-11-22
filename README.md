@@ -1,15 +1,15 @@
 # Documentação
 
-# Nome: 
+### Nome: 
 Guilherme B.M
 
-# Turma: 
+### Turma: 
 TDS23 1T
 
-# Professor: 
+### Professor: 
 Ricardo
 
-# Comentario:
+### Comentario:
 Estou gostando muito das aulas, estou realmente aprendendo, estou progredindo bem e o ritmo está adequado.
 
 # Conhecimentos:
