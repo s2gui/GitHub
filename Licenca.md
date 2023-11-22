@@ -2,7 +2,6 @@
 
 ### Oque é licença
 As licenças do github, permitem que os usuarios, alterem e distribuam livremente o seu projeto do seu repositório.
-Mas são só alterados se os 
 
 ### Tipos de licença
 licença open source
