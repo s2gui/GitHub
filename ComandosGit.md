@@ -72,7 +72,10 @@ Para adicionar um novo arquivo ou pasta dentro do VSCode
 git pull
 ```
 ### Para entrar na sua branch
-git checkout branch01/nome da sua branch
+Pode ser usado para criar uma ramificação.
+```
+git checkout branch/nome da sua branch
+```
 
 # Referencias:
 [README](README.md)
