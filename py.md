@@ -34,16 +34,9 @@ df.to_excel('nota_aluno.xlsx', index=False)
 ### Como ira ficar
 ![Excel](nota_aluno.png)
 
-### Mas antes de ficar assim vai ter que criar um excel primeiro pra adicionar os componentes, ele adicionara a Media sozinho
+### Porem
+Antes de ficar assim vai ter que criar um excel primeiro pra adicionar os componentes, ele adicionara a Media sozinho
 ![Excel](base_notas.png)
-
-
-
-
-
-
-
-
 
 ## Referencias:
 [README](README.md)
