@@ -1,6 +1,6 @@
 # Comandos do Git
 
-### Limpar a tela
+> Limpar a tela
 Ele vai apagar todas as mensagens.
 ```
 cls
