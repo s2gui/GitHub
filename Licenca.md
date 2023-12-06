@@ -1,10 +1,10 @@
-# Licença
+### Licença
 
 ### Oque é licença
 Licença é um componente essencial para indicar como o código ou projeto compartilhado está disponível para outros usuários. Quando você cria um repositório no GitHub, pode escolher uma licença para o seu projeto. Uma licença estabelece os termos legais em que outras pessoas podem usar, modificar, distribuir ou contribuir para o seu software.
 *** 
 
-# Tipos de licença
+### Tipos de licença
 ### licença open source
 Permite acesso, modificação e redistribuição do código-fonte por qualquer pessoa, garantindo liberdade para estudar, modificar e distribuir o software.
 
@@ -13,8 +13,9 @@ Um tipo específico de licença Open Source que exige que trabalhos derivados se
 
 ### Licença Permissiva
 Oferece mais liberdade aos usuários e desenvolvedores, permitindo o uso, modificação e redistribuição do software em projetos proprietários sem a exigência de que as modificações sejam distribuídas com a mesma licença.
+***
 
-# Importancia
+### Importancia
 ### licença open source
 A licença open source do projeto, serve para o uso daquele software, funcionando como um acordo legal entre quem cria o projeto inicial e quem o usa.
 
@@ -23,6 +24,7 @@ Permite o uso e distribuição, mas com certas condições, o usuario pode usar 
 
 ### Licença Permissiva
 Licença permissiva da muita flexibilidade no uso e distribuição do projeto, por causa que elas têm poucas restrições de uso e distribuição, com essa licença, os usuarios são livres para usar seu software como quiserem.
+*** 
 
 # Comparação
 ### licença open source
