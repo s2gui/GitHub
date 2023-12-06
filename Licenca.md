@@ -6,9 +6,11 @@ Licença é um componente essencial para indicar como o código ou projeto compa
 
 # Tipos de licença
 > licença open source
+
 Permite acesso, modificação e redistribuição do código-fonte por qualquer pessoa, garantindo liberdade para estudar, modificar e distribuir o software.
 
 > Licença Copyleft
+
 Um tipo específico de licença Open Source que exige que trabalhos derivados sejam distribuídos sob a mesma licença, assegurando que o código derivado permaneça aberto e preserve as liberdades do software original.
 
 > Licença Permissiva
