@@ -22,9 +22,11 @@ Licença permissiva da muita flexibilidade no uso e distribuição do projeto, p
 
 ### Comparação
 ### licença open source
+Oferece liberdade de uso, mas pode ter restrições específicas para a distribuição de versões modificadas.
 
 ### Licença Copyleft
+Exige que as modificações sejam distribuídas com a mesma licença, mantendo o código aberto.
 
 ### Licença Permissiva
-Todos os usuarios são livres pra modificar seu codigo, 
+Dá muita liberdade no uso e distribuição do código, com poucas restrições.
 
