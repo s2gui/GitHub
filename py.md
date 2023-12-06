@@ -1,21 +1,27 @@
 # Py
 ### Detalhes do Codigo
-Panda é uma inteligencia artificial que fornece ferramentas para manipular e analisar dados, e pd é uma biblioteca que fornece ferramentas para análise e manipulação de dados.
+Isso importa a biblioteca Pandas e a renomeia como pd para facilitar o uso.
 
 ```
 import pandas as pd
 ```
 
-base_notas.xlsx é o nome do seu excel e o nota_aluno.xlsx também, e df é o DataFrame do Pandas, é uma maneira de representar e trabalhar com dados tabulares.
+Aqui, ele lê um arquivo Excel chamado "base_notas.xlsx" e o carrega em um DataFrame do Pandas chamado df.
 
 ```
 df = pd.read_excel("base_notas.xlsx")
 ```
 
-O excel que a inteligencia ira fazer.
+Essa linha calcula a média das colunas 'Nota1', 'Nota2', 'Nota3' e 'Nota4' para cada linha do DataFrame df. O resultado é armazenado em uma nova coluna chamada 'Media'.
 
 ```
-df.to_excel('nota_aluno.xlsx', index=False)
+df['Media'] = df[['Nota1', 'Nota2', 'Nota3', 'Nota4']].mean(axis=1)
+```
+
+Por fim, esse comando salva o DataFrame df, que agora contém a coluna de médias, de volta para um arquivo Excel chamado "nota_aluno.xlsx", sem incluir o índice das linhas no arquivo resultante.
+
+```
+df.to_excel('nota_aluno.xlsx', index=False
 ```
 
 ### Codigo
